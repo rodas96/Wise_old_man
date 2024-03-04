@@ -58,7 +58,7 @@ for i in range(num_threads):
 for thread in threads:
     thread.join()
 
-print("All players processed.")it
+print("All players processed.")
 
 
 
